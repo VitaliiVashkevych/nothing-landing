@@ -1,0 +1,1 @@
+{"mappings":"ACEA,SAAS,IAAI,CAAC,KAAK,CAAC,SAAS,CAAG","sources":["<anon>","src/scripts/main.js"],"sourcesContent":["\"use strict\";\ndocument.body.style.overflowX = \"hidden\";\n\n//# sourceMappingURL=index.5f30d095.js.map\n","'use strict';\n\ndocument.body.style.overflowX = 'hidden';\n"],"names":["document","body","style","overflowX"],"version":3,"file":"index.5f30d095.js.map"}
